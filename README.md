@@ -132,4 +132,4 @@ La primera compilación en Android es lenta, porque descarga Gradle, el NDK y el
 - Alan Omar Amador de La Cruz
 - Johsua Josue Aponte Brito
 
-Programación móvil (SS603) · Grupo [número]
+Programación móvil (SS603) · Grupo 02
